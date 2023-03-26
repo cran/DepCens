@@ -6,10 +6,10 @@
 #' @aliases DepCens
 #' @import Formula
 #' @import survival
+#' @import stats
+#' @import dlm
 #' @importFrom rootSolve multiroot
-#' @importFrom dlm arms
 #' @importFrom matrixStats colProds
-#' @importFrom stats pnorm lowess
 #' @importFrom graphics lines
 #'
 #' @references
